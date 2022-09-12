@@ -1,0 +1,67 @@
+color: black;
+}
+
+.topnav a.active {
+  background-color: #d7d3db;
+  color: white;
+}
+.header {
+  padding: 60px;
+  text-align: center;
+  background-color: var(--purple);
+  color: white;
+  font-size: 30px;
+  font-family:"Sofia", sans-serif;Lucida Handwriting,cursive,Garamond;
+  text-decoration:overline;
+  text-decoration-style: wavy;
+  text-shadow: 2px 2px pink;
+  font-style: italic
+}
+.picture{
+  border: 10px inset black;
+}
+
+.search-field {
+	float: right;
+	margin-top: 8px;
+	margin-right: 8px;
+}
+.justify{
+	border: 1px solid black;
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+  text-align: justify;
+}
+.dropdown-menu{
+	font-family:"Sofia", sans-serif;Lucida Handwriting,cursive,Garamond;
+}
+.main{
+	font-family:"Sofia", sans-serif;Lucida Handwriting,cursive,Garamond;
+}
+.link{
+	font-family:"Sofia", sans-serif;Lucida Handwriting,cursive,Garamond;
+	
+}
+
+.slide-thumbnail {
+  object-fit: cover;
+  width: 73px;
+  height: 100px;
+}
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Add a card effect for articles */
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+#grad1 {
+  background-color: #a68fa5;
+  background-image: linear-gradient(#b5b5b5,#a68fa5, #F5F5DC);
+}
